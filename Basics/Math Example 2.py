@@ -1,6 +1,0 @@
-First_Name = input("Please enter your first name: ")
-Last_Name = input("Please enter your last name: ")
-Full_Name = (First_Name+Last_Name)
-print ("Hello, " + First_Name +" " + Last_Name)
-Age = input("Please enter your age: ")
-print (First_Name + " " + Last_Name + "," + Age)
